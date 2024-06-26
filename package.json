@@ -1,0 +1,22 @@
+{
+  "name": "postgraph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@graphile/pg-pubsub": "^4.13.0",
+    "@graphile/subscriptions-lds": "^4.13.0",
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "graphql-ws": "^5.16.0",
+    "pg": "^8.12.0",
+    "postgraphile": "^4.13.0",
+    "ws": "^8.17.1"
+  }
+}
